@@ -52,6 +52,26 @@ body {
   background-color: grey;
 }
 
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.social-icon {
+
+    color: white;
+    font-size: 1.5rem;
+    opacity: 0.6;
+}
+
+.social-icon:hover {
+    opacity: 0.9;
+
+
 .copyright_sec{
     font-family: 'Press Start 2P', cursive;
     font-size: 1em;
